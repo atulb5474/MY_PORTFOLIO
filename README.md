@@ -1,2 +1,3 @@
-# MY_PORTFOLIO
-Welcome to my portfolio! I’m Atul Kumar Computer Science and Engineering Student, passionate web developer with a strong foundation in modern web technologies, including HTML, CSS, JavaScript, and Bootstrap. My goal is to build engaging, user-friendly websites and applications that not only meet but exceed client expectations.
+# MY_PORTFOLIO,
+I’m Atul Kumar — a CSE student and passionate full-stack web developer.
+Skilled in HTML, CSS, JavaScript, and Bootstrap, I build responsive, user-focused web applications with clean design and great performance.
